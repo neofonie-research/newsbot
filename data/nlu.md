@@ -1,0 +1,32 @@
+## intent:greet
+- grüße
+- grüß
+- hallo
+- hallo hallo
+- ich grüße dich
+- ja hallo
+- hallöchen
+- grüß dich
+- Guten Morgen!
+- Guten Tag
+- Guten Abend!
+- Juten Tach
+- Moin Moin!
+- Hi!
+- Hi
+- Hey
+- Hey du!
+- Servus
+
+## intent:help
+- Wie kannst du mir helfen?
+- Wie kannst du mir sonst noch helfen?
+- Was kann ich dich fragen?
+- Was kann ich dich so alles fragen?
+- Hilfe
+- Hilf mir
+- Was kannst du?
+- Was kannst du denn überhaupt?
+- Wozu bist du da?
+- Was machst du?
+- Erzähl mir, wie du mir helfen kannst.

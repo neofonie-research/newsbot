@@ -1,0 +1,14 @@
+# Configuration for Rasa Core.
+policies:
+  - name: KerasPolicy
+    epochs: 100
+    max_history: 2
+  - name: FallbackPolicy
+    nlu_threshold: 0.95
+    fallback_action_name: 'action_default_fallback'
+  - name: MemoizationPolicy
+    max_history: 2
+
+# Configuration for Rasa NLU.
+language: "de"
+pipeline: "tensorflow_embedding"

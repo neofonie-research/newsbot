@@ -1,0 +1,18 @@
+intents:
+  - greet
+  - help
+
+actions:
+  - utter_greet
+  - utter_help
+  - action_default_fallback
+
+templates:
+  utter_help:
+  - text: "Ich bin ein Nachrichten Assistent. Du kannst mir Fragen stellen und ich versuche relevante Nachrichtenartikel dazu zu finden."
+
+  utter_greet:
+  - text: "Hallo!"
+  - text: "Hi"
+  - text: "Grüß dich!"
+  - text: "Guten Tag!"
